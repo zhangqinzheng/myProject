@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /my
+  port: 8090
+
+boy:
+ name: 正式
+ age: 23

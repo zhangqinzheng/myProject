@@ -20,6 +20,7 @@ public class TestController {
 
     @RequestMapping("/hello")
     public String hello() {
+        System.out.println("执行完成");
         return testService.hello();
     }
 
