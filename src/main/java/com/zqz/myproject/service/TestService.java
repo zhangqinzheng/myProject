@@ -11,7 +11,6 @@ public interface TestService {
 
     /**
      * 测试
-     *
      * @return
      */
     String hello();
